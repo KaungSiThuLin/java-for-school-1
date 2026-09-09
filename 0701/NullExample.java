@@ -14,9 +14,9 @@ public class NullExample {
         // StudentCardのインスタンス配列を生成(作成)する
         StudentCard[] cards = new StudentCard[3];   // StudentCardクラスの配列の宣言
         // cards[0],[2]についてはノータッチ
-        cards[1] = new StudentCard();   // 添え字1番目にStudentCardのインスタンスを生成する
-        cards[1].id = 1235; // インスタンスのメンバ変数idに1235を代入
-        cards[1].name = "佐藤花子"; // インスタンスのメンバ変数nameに佐藤花子を代入
+        // cards[1] = new StudentCard();   // 添え字1番目にStudentCardのインスタンスを生成する
+        // cards[1].id = 1235; // インスタンスのメンバ変数idに1235を代入
+        // cards[1].name = "佐藤花子"; // インスタンスのメンバ変数nameに佐藤花子を代入
 
         // cards[0] = new StudentCard();
         // cards[0].id = 1111;
